@@ -1,0 +1,107 @@
+CODE TIME          (Last updated on Mon, Apr 13th 11:59pm)
+
+Today (Mon, Apr 13th)
+-----------------------------------------------------------------
+         Time coded today :                              1.4 hrs
+               90-day avg :                                0 min
+
+Yesterday (Sun, Apr 12th)
+-----------------------------------------------------------------
+                Code time :                                    0
+      Lines of code added :                                    0
+    Lines of code deleted :                                    0
+         Characters added :                                    0
+       Characters deleted :                                    0
+         Total keystrokes :                                    0
+                      KPM :                                    0
+      Hours coded at work :                                    0
+ Hours coded outside work :                                    0
+               Live share :                                0 min
+
+Last week (Sun, Apr 5th - Sat, Apr 11th)
+-----------------------------------------------------------------
+                Code time :                                 7.60
+      Lines of code added :                                1,305
+    Lines of code deleted :                                  150
+         Characters added :                                5,644
+ Hours coded outside work :                                 6.80
+      Hours coded at work :                                 0.80
+       Characters deleted :                                2,224
+         Total keystrokes :                                9,726
+                      KPM :                                21.30
+               Live share :                                0 min
+             Top language :                                 html
+
+  ?? Weekly top projects
+  --------------------------------------------------------------
+  1.  project0                                           7.3 hrs
+  2.  UntitledWorkspace                                   13 min
+  3.  My_journey                                           2 min
+
+  ?? Weekly code time heatmap
+  --------------------------------------------------------------
+      12a 1a 2a 3a 4a 5a 6a 7a 8a 9a 10a 11a 12p 1p 2p 3p 4p 5p 6p 7p 8p 9p 10p 11p 
+  Sun ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 
+  Mon ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 
+  Tue ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 
+  Wed ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 
+  Thu ? ? ? ? ? ? ? ? ? ? ?? ?? ? ? ? ? ? ? ?? ?? ?? ?? ?? ?? 
+  Fri ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?? ?? ?? ?? ?? ?? ?? ? 
+  Sat ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 
+
+90-day avg by day of week
+-----------------------------------------------------------------
+                      sun :  0 min
+                      mon :  0 min
+                      tue :  0 min
+                      wed :  0 min
+                      thu : ????????????????????????? 4.3 hrs
+                      fri : ??????????????????? 3.3 hrs
+                      sat :  0 min
+
+Last 90 days (Apr 9th, 2020 - Apr 12th, 2020)
+-----------------------------------------------------------------
+                Code time :                                 7.60
+      Lines of code added :                                1,305
+    Lines of code deleted :                                  150
+         Characters added :                                5,644
+ Hours coded outside work :                                 6.80
+      Hours coded at work :                                 0.80
+       Characters deleted :                                2,224
+         Total keystrokes :                                9,726
+                      KPM :                                21.30
+               Live share :                                0 min
+             Top language :                                 html
+
+?? Your weekly language rankings
+-----------------------------------------------------------------
+                     html : ??????????????? 60.0%
+                 untitled : ????? 20.0%
+                plaintext : ????? 20.0%
+
+?? Global weekly language rankings
+-----------------------------------------------------------------
+               javascript : ????? 20.8%
+               typescript : ?? 7.5%
+                      php : ?? 7.0%
+                plaintext : ?? 6.9%
+                   python : ?? 6.5%
+                     html : ?? 6.4%
+                      vue : ? 3.5%
+                     json : ? 3.3%
+                 untitled : ? 2.8%
+          typescriptreact : ? 2.7%
+                     dart : ? 2.5%
+                 markdown : ? 2.3%
+                     java : ? 2.2%
+          javascriptreact : ? 2.1%
+                      css : ? 2.0%
+                     yaml : ? 1.7%
+                     scss : ? 1.7%
+                      cpp : ? 1.6%
+                    jsonc : ? 1.2%
+                       go : ? 1.2%
+                   csharp : ? 1.1%
+                    other : ??? (413 totaling 13.0%)
+
+
