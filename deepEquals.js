@@ -19,6 +19,6 @@ return propsInA == propsInB;
 }
 let test = {will: 25, object: 2};
 // console.log(deepEqual(obj, obj));
-console.log(deepEqual({will: 25,object:2}, {will:25,object: 2}));
+console.log(deepEqual({will: 25,object:2}, {will:25,object: 2})); //true
 let obj = {here: 25, object: 2};
-console.log(deepEqual(obj, {here: {is: "an"}, object: 2}));
+console.log(deepEqual(obj, {here: {is: "an"}, object: 2}));// false
